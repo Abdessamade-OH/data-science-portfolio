@@ -1,6 +1,6 @@
 # Abdessamade Ohmad - Data Science & AI Portfolio
 
-![Profile Image](assets/imgs/profile.jpg)
+![Profile Image](assets/images/profile-picture.jpeg)
 
 Welcome to my Data Science and AI portfolio! Here you'll find a showcase of my projects, skills, and experiences in the field of data science and artificial intelligence. Feel free to explore my work and reach out if you have any questions or opportunities.
 
@@ -40,9 +40,9 @@ This project focuses on optimizing greenhouse conditions for strawberry cultivat
 - **Actuation**: Adjustments to greenhouse conditions based on model predictions.
 
 #### Carousel Images
-![AIOT Greenhouse 1](assets/imgs/aiot_greenhouse1.jpg)
-![AIOT Greenhouse 2](assets/imgs/aiot_greenhouse2.jpg)
-![AIOT Greenhouse 3](assets/imgs/aiot_greenhouse3.jpg)
+![AIOT Greenhouse 1](assets/images/AIOT.png)
+![AIOT Greenhouse 2](assets/images/AIOT2.png)
+![AIOT Greenhouse 3](assets/images/AIOT3.png)
 
 ### Big Data Sentiment Analysis on Tweets
 
@@ -65,9 +65,9 @@ Developed a real-time sentiment analysis application for tweets using Apache Kaf
 - **Visualization**: Angular-based web application for visualizing sentiment analysis results.
 
 #### Carousel Images
-![Sentiment Analysis 1](assets/imgs/sentiment_analysis1.jpg)
-![Sentiment Analysis 2](assets/imgs/sentiment_analysis2.jpg)
-![Sentiment Analysis 3](assets/imgs/sentiment_analysis3.jpg)
+![Sentiment Analysis 1](assets/images/BigData (1).jpeg)
+![Sentiment Analysis 2](assets/images/BigData (2).jpeg)
+![Sentiment Analysis 3](assets/images/BigData (3).jpeg)
 
 ### Educational Chatbot Project
 
@@ -92,9 +92,7 @@ Developed a chatbot to provide information about the Faculty of Sciences and Tec
 - **Information Retrieval**: Fetches and provides information from scraped PDFs.
 
 #### Carousel Images
-![Chatbot 1](assets/imgs/chatbot1.jpg)
-![Chatbot 2](assets/imgs/chatbot2.jpg)
-![Chatbot 3](assets/imgs/chatbot3.jpg)
+![Chatbot 1](assets/images/NLP.jpg)
 
 ## Skills
 - **Technologies**: Angular, NodeJs, ExpressJs, MongoDB, Git, Shell, Linux, Vim
