@@ -65,9 +65,9 @@ Developed a real-time sentiment analysis application for tweets using Apache Kaf
 - **Visualization**: Angular-based web application for visualizing sentiment analysis results.
 
 #### Carousel Images
-![Sentiment Analysis 1](assets/images/BigData (1).jpeg)
-![Sentiment Analysis 2](assets/images/BigData (2).jpeg)
-![Sentiment Analysis 3](assets/images/BigData (3).jpeg)
+![Sentiment Analysis 1](assets/images/BigData.jpeg)
+![Sentiment Analysis 2](assets/images/BigData2.jpeg)
+![Sentiment Analysis 3](assets/images/BigData3.jpeg)
 
 ### Educational Chatbot Project
 
