@@ -1,7 +1,5 @@
 # Abdessamade Ohmad - Data Science & AI Portfolio
 
-![Profile Image](assets/images/profile-picture.jpeg)
-
 Welcome to my Data Science and AI portfolio! Here you'll find a showcase of my projects, skills, and experiences in the field of data science and artificial intelligence. Feel free to explore my work and reach out if you have any questions or opportunities.
 
 ## Table of Contents
